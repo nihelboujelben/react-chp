@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nihelboujelben/react-chp/static/css/main.4d0739bc.chunk.css",
+    "main.js": "/nihelboujelben/react-chp/static/js/main.7e24e67a.chunk.js",
+    "main.js.map": "/nihelboujelben/react-chp/static/js/main.7e24e67a.chunk.js.map",
+    "runtime-main.js": "/nihelboujelben/react-chp/static/js/runtime-main.ac3dd784.js",
+    "runtime-main.js.map": "/nihelboujelben/react-chp/static/js/runtime-main.ac3dd784.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/nihelboujelben/react-chp/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a8dda070.chunk.js": "/nihelboujelben/react-chp/static/js/2.a8dda070.chunk.js",
+    "static/js/2.a8dda070.chunk.js.map": "/nihelboujelben/react-chp/static/js/2.a8dda070.chunk.js.map",
+    "index.html": "/nihelboujelben/react-chp/index.html",
+    "precache-manifest.032812d1375ed50568079e49dad56d91.js": "/nihelboujelben/react-chp/precache-manifest.032812d1375ed50568079e49dad56d91.js",
+    "service-worker.js": "/nihelboujelben/react-chp/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/nihelboujelben/react-chp/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.4d0739bc.chunk.css.map": "/nihelboujelben/react-chp/static/css/main.4d0739bc.chunk.css.map",
+    "static/js/2.a8dda070.chunk.js.LICENSE.txt": "/nihelboujelben/react-chp/static/js/2.a8dda070.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac3dd784.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a8dda070.chunk.js",
+    "static/css/main.4d0739bc.chunk.css",
+    "static/js/main.7e24e67a.chunk.js"
+  ]
+}
